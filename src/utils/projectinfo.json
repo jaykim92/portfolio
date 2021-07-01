@@ -1,17 +1,26 @@
 [
   {
-    "name": "New Employee Handbook",
+    "name": "Mx.Swimms",
+    "desc": "Portfolio for music artist, Mx.Swimms. Website displays discography, tour dates, photos, and social media links. Designed, coded, and deployed using React, Material-UI, and Heroku.",
+    "img": "mxswimmsss",
+    "link": "https://mxswimms.herokuapp.com"
+  },
+  {
+    "name": "Project FOCUS",
     "desc": "Archive of protocols and procedures for new employees at the nonprofit organization, Project FOCUS. This full stack application has a search function to easily locate content pertaining to key words. Built this project from wireframe to deployment using React, React Bootstrap, Express.js, Node.js, and MongoDB Atlas.",
-    "img": "handbookss"
+    "img": "handbookss",
+    "link": "https://fsp-handbook.herokuapp.com/"
   },
   {
     "name": "Dealing with Divorce",
-    "desc": "Website for the nonprofit organization, Dealing with Divorce. Collaborated with founders of the program to describe the types of services provided by the organization, help redesign and improve overall functionality for an existing WordPress website, and staged additional e-commerce and donation pages that will be deployed in the future.",
-    "img": "dwdss"
+    "desc": "Website for the nonprofit organization, Dealing with Divorce. Collaborated with founders of the program to describe the types of services provided by the organization, help redesign and improve overall functionality for an existing WordPress website, and stage additional e-commerce and donation pages that will be deployed in the future.",
+    "img": "dwdss",
+    "link": "https://dealingwithdivorce.org/"
   },
   {
-    "name": "Mx.Swimms",
-    "desc": "Website to display discography for music artist, Mx.Swimms. Designed, coded, and deployed using React, Material-UI, and Heroku.",
-    "img": "mxswimmsss"
+    "name": "Restaurateur",
+    "desc": "Website for small restaurant owners who want to upload menu items for free. Worked in a team of four to build this full stack application. Was primarily responsible for setting up the sign up and login system, database, schemas, and routes using a MERN stack.",
+    "img": "restaurateurss",
+    "link": "https://restaurateurs.herokuapp.com"
   }
 ]

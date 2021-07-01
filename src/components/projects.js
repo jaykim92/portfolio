@@ -17,9 +17,6 @@ import projectinfo from "../utils/projectinfo.json";
 const useStyles = makeStyles({
   projectsBackground: {
     backgroundImage: `url(${Projectsbg})`
-  },
-  projectImg: {
-    width: "20vw"
   }
 });
 
@@ -31,10 +28,10 @@ function Projects() {
       <Box display="flex" justifyContent="center">
         <h1 style={{ fontSize: "50px" }}>Previous Works</h1>
       </Box>
-      {/* {projectinfo.map((item, i) => (
+      {projectinfo.map((item, i) => (
         <Projectinfo key={i} data={item} />
-      ))} */}
-      <Projectinfo />
+      ))}
+      {/* <Projectinfo /> */}
     </div>
   );
 }
