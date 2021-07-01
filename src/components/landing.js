@@ -11,7 +11,6 @@ import { Box, Grid, Link } from "@material-ui/core";
 const useStyles = makeStyles({
   coverImg: {
     height: "100vh",
-    width: "100vw",
     backgroundImage: `url(${landingImg})`,
     backgroundAttachment: "fixed",
     backgroundPosition: "center",

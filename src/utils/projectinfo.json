@@ -1,7 +1,17 @@
 [
-    {
-        "name": "New Employee Handbook",
-        "desc": "Archive of protocols and procedures for new employees at the nonprofit organization, Project FOCUS. This full stack application has a search function to easily locate content pertaining to key words. Built using React, React Bootstrap, Express.js, Node.js, and MongoDB Atlas.",
-        "img": "handbookss"
-    }
+  {
+    "name": "New Employee Handbook",
+    "desc": "Archive of protocols and procedures for new employees at the nonprofit organization, Project FOCUS. This full stack application has a search function to easily locate content pertaining to key words. Built this project from wireframe to deployment using React, React Bootstrap, Express.js, Node.js, and MongoDB Atlas.",
+    "img": "handbookss"
+  },
+  {
+    "name": "Dealing with Divorce",
+    "desc": "Website for the nonprofit organization, Dealing with Divorce. Collaborated with founders of the program to describe the types of services provided by the organization, help redesign and improve overall functionality for an existing WordPress website, and staged additional e-commerce and donation pages that will be deployed in the future.",
+    "img": "dwdss"
+  },
+  {
+    "name": "Mx.Swimms",
+    "desc": "Website to display discography for music artist, Mx.Swimms. Designed, coded, and deployed using React, Material-UI, and Heroku.",
+    "img": "mxswimmsss"
+  }
 ]

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio-jay-kim/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/portfolio-jay-kim/static/js/main.2c14cad8.chunk.js",
-    "main.js.map": "/portfolio-jay-kim/static/js/main.2c14cad8.chunk.js.map",
+    "main.js": "/portfolio-jay-kim/static/js/main.30ed4009.chunk.js",
+    "main.js.map": "/portfolio-jay-kim/static/js/main.30ed4009.chunk.js.map",
     "runtime-main.js": "/portfolio-jay-kim/static/js/runtime-main.c7ed08ee.js",
     "runtime-main.js.map": "/portfolio-jay-kim/static/js/runtime-main.c7ed08ee.js.map",
     "static/js/2.bcb38db3.chunk.js": "/portfolio-jay-kim/static/js/2.bcb38db3.chunk.js",
@@ -16,14 +16,14 @@
     "static/media/aboutPic2.jpg": "/portfolio-jay-kim/static/media/aboutPic2.0c079898.jpg",
     "static/media/dwdss.jpg": "/portfolio-jay-kim/static/media/dwdss.77364d0c.jpg",
     "static/media/handbookss.jpg": "/portfolio-jay-kim/static/media/handbookss.6823aecd.jpg",
-    "static/media/landingImg.jpg": "/portfolio-jay-kim/static/media/landingImg.5b06d7d9.jpg",
-    "static/media/projectsbg.jpg": "/portfolio-jay-kim/static/media/projectsbg.aaacbeac.jpg",
+    "static/media/landingImg.jpg": "/portfolio-jay-kim/static/media/landingImg.2c0ae260.jpg",
+    "static/media/projectsbg.jpg": "/portfolio-jay-kim/static/media/projectsbg.e5e319b3.jpg",
     "static/media/swimmsss.jpg": "/portfolio-jay-kim/static/media/swimmsss.429b5076.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c7ed08ee.js",
     "static/js/2.bcb38db3.chunk.js",
     "static/css/main.ea1455b2.chunk.css",
-    "static/js/main.2c14cad8.chunk.js"
+    "static/js/main.30ed4009.chunk.js"
   ]
 }

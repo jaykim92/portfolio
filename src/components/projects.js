@@ -31,9 +31,10 @@ function Projects() {
       <Box display="flex" justifyContent="center">
         <h1 style={{ fontSize: "50px" }}>Previous Works</h1>
       </Box>
-      {projectinfo.map((item, i) => (
-      <Projectinfo key={i} data={item} />
-      ))}
+      {/* {projectinfo.map((item, i) => (
+        <Projectinfo key={i} data={item} />
+      ))} */}
+      <Projectinfo />
     </div>
   );
 }
