@@ -1,15 +1,15 @@
 [
   {
-    "name": "Mx.Swimms",
-    "desc": "Portfolio for music artist, Mx.Swimms. Website displays discography, tour dates, photos, and social media links. Designed, coded, and deployed using React, Material-UI, and Heroku.",
-    "img": "mxswimmsss",
-    "link": "https://mxswimms.herokuapp.com"
-  },
-  {
     "name": "Project FOCUS",
     "desc": "Archive of protocols and procedures for new employees at the nonprofit organization, Project FOCUS. This full stack application has a search function to easily locate content pertaining to key words. Built this project from wireframe to deployment using React, React Bootstrap, Express.js, Node.js, and MongoDB Atlas.",
     "img": "handbookss",
     "link": "https://fsp-handbook.herokuapp.com/"
+  },
+  {
+    "name": "Mx.Swimms",
+    "desc": "Portfolio for music artist, Mx.Swimms. Website displays discography, tour dates, photos, and social media links. Designed, coded, and deployed using React, Material-UI, and Heroku.",
+    "img": "mxswimmsss",
+    "link": "https://mxswimms.herokuapp.com"
   },
   {
     "name": "Dealing with Divorce",
