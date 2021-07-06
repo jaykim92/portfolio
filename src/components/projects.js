@@ -9,6 +9,7 @@ import { Box } from "@material-ui/core";
 
 // import internal components
 import Projectinfo from "./projectinfo";
+import Contact from "./contact";
 
 // import json file with information for each project to be mapped
 import projectinfo from "../utils/projectinfo.json";
@@ -24,7 +25,7 @@ function Projects() {
   const classes = useStyles();
 
   return (
-    <div className={classes.projectsBackground}>
+    <div className={classes.projectsBackground} id="projects">
       <Box display="flex" justifyContent="center">
         <h1 style={{ fontSize: "50px" }}>Previous Works</h1>
       </Box>
@@ -32,6 +33,7 @@ function Projects() {
         <Projectinfo key={i} data={item} />
       ))}
       {/* <Projectinfo /> */}
+      <Contact />
     </div>
   );
 }

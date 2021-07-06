@@ -1,29 +1,30 @@
 {
   "files": {
     "main.css": "/portfolio-jay-kim/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/portfolio-jay-kim/static/js/main.30ed4009.chunk.js",
-    "main.js.map": "/portfolio-jay-kim/static/js/main.30ed4009.chunk.js.map",
-    "runtime-main.js": "/portfolio-jay-kim/static/js/runtime-main.c7ed08ee.js",
-    "runtime-main.js.map": "/portfolio-jay-kim/static/js/runtime-main.c7ed08ee.js.map",
-    "static/js/2.bcb38db3.chunk.js": "/portfolio-jay-kim/static/js/2.bcb38db3.chunk.js",
-    "static/js/2.bcb38db3.chunk.js.map": "/portfolio-jay-kim/static/js/2.bcb38db3.chunk.js.map",
-    "static/js/3.a46caea9.chunk.js": "/portfolio-jay-kim/static/js/3.a46caea9.chunk.js",
-    "static/js/3.a46caea9.chunk.js.map": "/portfolio-jay-kim/static/js/3.a46caea9.chunk.js.map",
+    "main.js": "/portfolio-jay-kim/static/js/main.77b49bc2.chunk.js",
+    "main.js.map": "/portfolio-jay-kim/static/js/main.77b49bc2.chunk.js.map",
+    "runtime-main.js": "/portfolio-jay-kim/static/js/runtime-main.65f9efa4.js",
+    "runtime-main.js.map": "/portfolio-jay-kim/static/js/runtime-main.65f9efa4.js.map",
+    "static/js/2.c2072277.chunk.js": "/portfolio-jay-kim/static/js/2.c2072277.chunk.js",
+    "static/js/2.c2072277.chunk.js.map": "/portfolio-jay-kim/static/js/2.c2072277.chunk.js.map",
+    "static/js/3.2559db7f.chunk.js": "/portfolio-jay-kim/static/js/3.2559db7f.chunk.js",
+    "static/js/3.2559db7f.chunk.js.map": "/portfolio-jay-kim/static/js/3.2559db7f.chunk.js.map",
     "index.html": "/portfolio-jay-kim/index.html",
     "static/css/main.ea1455b2.chunk.css.map": "/portfolio-jay-kim/static/css/main.ea1455b2.chunk.css.map",
-    "static/js/2.bcb38db3.chunk.js.LICENSE.txt": "/portfolio-jay-kim/static/js/2.bcb38db3.chunk.js.LICENSE.txt",
+    "static/js/2.c2072277.chunk.js.LICENSE.txt": "/portfolio-jay-kim/static/js/2.c2072277.chunk.js.LICENSE.txt",
     "static/media/aboutPic.jpg": "/portfolio-jay-kim/static/media/aboutPic.0ab0ee43.jpg",
     "static/media/aboutPic2.jpg": "/portfolio-jay-kim/static/media/aboutPic2.0c079898.jpg",
-    "static/media/dwdss.jpg": "/portfolio-jay-kim/static/media/dwdss.77364d0c.jpg",
-    "static/media/handbookss.jpg": "/portfolio-jay-kim/static/media/handbookss.6823aecd.jpg",
+    "static/media/dwdss.jpg": "/portfolio-jay-kim/static/media/dwdss.11f1f57d.jpg",
+    "static/media/handbookss.jpg": "/portfolio-jay-kim/static/media/handbookss.dc37184b.jpg",
     "static/media/landingImg.jpg": "/portfolio-jay-kim/static/media/landingImg.2c0ae260.jpg",
-    "static/media/projectsbg.jpg": "/portfolio-jay-kim/static/media/projectsbg.e5e319b3.jpg",
-    "static/media/swimmsss.jpg": "/portfolio-jay-kim/static/media/swimmsss.429b5076.jpg"
+    "static/media/mxswimmsss.jpg": "/portfolio-jay-kim/static/media/mxswimmsss.caad9e9c.jpg",
+    "static/media/projectsbg.jpg": "/portfolio-jay-kim/static/media/projectsbg.f47f9bf9.jpg",
+    "static/media/restaurateurss.jpg": "/portfolio-jay-kim/static/media/restaurateurss.b5f3f66f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c7ed08ee.js",
-    "static/js/2.bcb38db3.chunk.js",
+    "static/js/runtime-main.65f9efa4.js",
+    "static/js/2.c2072277.chunk.js",
     "static/css/main.ea1455b2.chunk.css",
-    "static/js/main.30ed4009.chunk.js"
+    "static/js/main.77b49bc2.chunk.js"
   ]
 }

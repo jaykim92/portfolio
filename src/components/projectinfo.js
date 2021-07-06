@@ -5,10 +5,24 @@ import { makeStyles } from "@material-ui/core/styles";
 import { Grid } from "@material-ui/core";
 
 // custom css styling
-const useStyles = makeStyles({
+const useStyles = makeStyles(theme => ({
   projectImg: {
     width: "40vw",
-    height: "15vh"
+    height: "15vh",
+    [theme.breakpoints.only("md")]: {
+      width: "40vw",
+      height: "7vh"
+    },
+    [theme.breakpoints.only("sm")]: {
+      width: "80vw",
+      height: "15vh",
+      marginTop: "10rem",
+    },
+    [theme.breakpoints.only("xs")]: {
+      width: "80vw",
+      height: "12vh",
+      marginTop: "10rem",
+    }
   },
   linkAnimate: {
     "&:hover": {
@@ -16,14 +30,14 @@ const useStyles = makeStyles({
       marginTop: "-15px"
     }
   }
-});
+}));
 
 function Projectinfo({ data }) {
   const classes = useStyles();
 
   return (
     <div style={{ margin: "auto", width: "75%" }}>
-      <div data-aos="flip-up" data-aos-delay="50" data-aos-duration="1000">
+      <div data-aos="flip-right" data-aos-delay="50" data-aos-duration="1000">
         <Grid
           container
           direction="row"
