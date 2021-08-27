@@ -38,8 +38,15 @@ function Skills() {
         >
           <h1>Skills</h1>
         </Box>
+      </div>
 
-        <Grid container align="center">
+      <div
+        className={classes.skillDiv}
+        data-aos="fade-up"
+        data-aos-delay="50"
+        data-aos-duration="1000"
+      >
+        <Grid container align="center" style={{paddingBottom: "1rem"}}>
           <Grid item xs={6} md={3}>
             <p>HTML5</p>
             <i class="fab fa-html5 fa-5x"></i>
@@ -56,7 +63,25 @@ function Skills() {
             <p>ReactJS</p>
             <i class="fab fa-react fa-5x"></i>
           </Grid>
+        </Grid>
+      </div>
 
+      <div
+        className={classes.skillDiv}
+        data-aos="fade-up"
+        data-aos-delay="50"
+        data-aos-duration="1000"
+      >
+        <hr></hr>
+      </div>
+
+      <div
+        className={classes.skillDiv}
+        data-aos="fade-up"
+        data-aos-delay="50"
+        data-aos-duration="1000"
+      >
+        <Grid container align="center" style={{paddingBottom: "2rem"}}>
           <Grid item xs={6} md={3}>
             <p>Node.js</p>
             <i class="fab fa-node fa-5x"></i>
@@ -84,27 +109,6 @@ function Skills() {
               alt="screenshot of my project"
               style={{ width: "9vw" }}
             ></img>
-          </Grid>
-
-          <Grid item xs={6} md={3}>
-            <p>Bootstrap</p>
-            <i class="fab fa-bootstrap fa-5x"></i>
-          </Grid>
-          <Grid item xs={6} md={3}>
-            <p>Material-UI</p>
-            <img
-              src={require(`../assets/icons/materialui.png`).default}
-              alt="screenshot of my project"
-              style={{ height: "17vh" }}
-            ></img>
-          </Grid>
-          <Grid item xs={6} md={3}>
-            <p>WordPress</p>
-            <i class="fab fa-wordpress fa-5x"></i>
-          </Grid>
-          <Grid item xs={6} md={3} style={{ marginBottom: "4rem" }}>
-            <p>Squarespace</p>
-            <i class="fab fa-squarespace fa-5x"></i>
           </Grid>
         </Grid>
       </div>

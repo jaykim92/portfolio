@@ -4,6 +4,7 @@ import React from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import { Grid } from "@material-ui/core";
 
+
 // custom css styling
 const useStyles = makeStyles(theme => ({
   projectImg: {
@@ -16,12 +17,12 @@ const useStyles = makeStyles(theme => ({
     [theme.breakpoints.only("sm")]: {
       width: "80vw",
       height: "15vh",
-      marginTop: "10rem",
+      marginTop: "10rem"
     },
     [theme.breakpoints.only("xs")]: {
       width: "80vw",
       height: "12vh",
-      marginTop: "10rem",
+      marginTop: "10rem"
     }
   },
   linkAnimate: {
@@ -37,29 +38,30 @@ function Projectinfo({ data }) {
 
   return (
     <div style={{ margin: "auto", width: "75%" }}>
-      <div data-aos="flip-right" data-aos-delay="50" data-aos-duration="1000">
-        <Grid
-          container
-          direction="row"
-          justify="center"
-          alignItems="center"
-          spacing={10}
-        >
-          <Grid item xs={12} md={7} className={classes.linkAnimate}>
-            <a href={data.link} target="_blank" rel="noopener noreferrer">
-              <img
-                src={require(`../assets/${data.img}.jpg`).default}
-                alt="screenshot of my project"
-                className={classes.projectImg}
-              ></img>
-            </a>
+        <div data-aos="flip-up" data-aos-delay="50" data-aos-duration="1000">
+          <Grid
+            container
+            direction="row"
+            justify="center"
+            alignItems="center"
+            spacing={10}
+          >
+            <Grid item xs={12} md={7} className={classes.linkAnimate}>
+              <a href={data.link} target="_blank" rel="noopener noreferrer">
+                <img
+                  src={require(`../assets/${data.img}.jpg`).default}
+                  alt="screenshot of my project"
+                  className={classes.projectImg}
+                ></img>
+              </a>
+            </Grid>
+            <Grid item xs={12} md={5}>
+              <h1>{data.name}</h1>
+              <p>{data.desc}</p>
+            </Grid>
           </Grid>
-          <Grid item xs={12} md={5}>
-            <h1>{data.name}</h1>
-            <p>{data.desc}</p>
-          </Grid>
-        </Grid>
       </div>
+
 
       {/* <Grid
         container
