@@ -51,15 +51,20 @@ function Projectinfo({ data }) {
   const modalBody = (
     <div className={classes.paper}>
       <h2>{data.name}</h2>
-      <h3>Description</h3>
+      <h3>What it is:</h3>
       <p>{data.desc}</p>
-      <h3>Technologies Used</h3>
-      <p>{data.tech}</p>
-      <a href={data.link} target="_blank" rel="noopener noreferrer">
+      <h3>How it was made:</h3>
+      <ul>
+        <li>Primary languages: {data.tech1}</li>
+        <li>Frameworks: {data.tech2}</li>
+        <li>Other technologies: {data.tech3}</li>
+      </ul>
+      <h3>Where to find it:</h3>
+      <a href={data.app} target="_blank" rel="noopener noreferrer">
         Link to Application
       </a>
-      <a href={data.link} target="_blank" rel="noopener noreferrer">
-        Link to Application
+      <a href={data.repo} target="_blank" rel="noopener noreferrer">
+        Link to Repository
       </a>
     </div>
   );
