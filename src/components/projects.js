@@ -27,12 +27,11 @@ function Projects() {
   return (
     <div className={classes.projectsBackground} id="projects">
       <Box display="flex" justifyContent="center">
-        <h1 style={{ fontSize: "50px" }}>Previous Works</h1>
+        <h1 style={{ fontSize: "50px" }}>Portfolio</h1>
       </Box>
       {projectinfo.map((item, i) => (
         <Projectinfo key={i} data={item} />
       ))}
-      {/* <Projectinfo /> */}
       <Contact />
     </div>
   );
