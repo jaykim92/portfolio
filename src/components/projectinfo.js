@@ -7,20 +7,8 @@ import { Grid, Modal, Button } from "@material-ui/core";
 // custom css styling
 const useStyles = makeStyles(theme => ({
   projectImg: {
-    width: "40vw",
-    height: "15vh",
-    [theme.breakpoints.only("md")]: {
-      width: "40vw",
-      height: "12vh"
-    },
-    [theme.breakpoints.only("sm")]: {
-      width: "40vw",
-      height: "10vh"
-    },
-    [theme.breakpoints.only("xs")]: {
-      width: "80%",
-      height: "8%"
-    }
+    width: "60vw",
+    height: "auto"
   },
   modalStyling: {
     display: "flex",
@@ -60,12 +48,16 @@ function Projectinfo({ data }) {
         <li>Other technologies: {data.tech3}</li>
       </ul>
       <h3>Where to find it:</h3>
-      <a href={data.app} target="_blank" rel="noopener noreferrer">
-        Link to Application
-      </a>
-      <a href={data.repo} target="_blank" rel="noopener noreferrer">
-        Link to Repository
-      </a>
+      <div>
+        <a href={data.app} target="_blank" rel="noopener noreferrer">
+          Link to Application
+        </a>
+      </div>
+      <div>
+        <a href={data.repo} target="_blank" rel="noopener noreferrer">
+          Link to Repository
+        </a>
+      </div>
     </div>
   );
 

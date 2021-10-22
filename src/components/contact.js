@@ -7,7 +7,7 @@ import { Box, Grid } from "@material-ui/core";
 // custom css styling
 const useStyles = makeStyles({
   view: {
-    height: "60vh"
+    height: "55vh"
   },
   link: {
     textDecoration: "none",
