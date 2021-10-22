@@ -49,13 +49,15 @@ function Projectinfo({ data }) {
       </ul>
       <h3>Where to find it:</h3>
       <div>
+        <p>Link to application:</p>
         <a href={data.app} target="_blank" rel="noopener noreferrer">
-          Link to Application
+          {data.app}
         </a>
       </div>
       <div>
+        <p>Link to repository:</p>
         <a href={data.repo} target="_blank" rel="noopener noreferrer">
-          Link to Repository
+          {data.repo}
         </a>
       </div>
     </div>
