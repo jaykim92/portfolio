@@ -8,7 +8,10 @@ import { Grid, Modal, Button } from "@material-ui/core";
 const useStyles = makeStyles(theme => ({
   projectImg: {
     width: "60vw",
-    height: "auto"
+    height: "auto",
+    "&:hover": {
+      opacity: "0.7"
+    }
   },
   modalStyling: {
     display: "flex",
