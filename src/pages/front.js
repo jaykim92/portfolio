@@ -24,7 +24,6 @@ function Front() {
       <Landing />
       <About />
       <Projects />
-      <Footer />
     </div>
   );
 }
