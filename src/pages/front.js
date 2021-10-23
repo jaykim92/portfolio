@@ -12,8 +12,7 @@ import { makeStyles } from "@material-ui/core/styles";
 // css styling
 const useStyles = makeStyles({
   width: {
-    width: "100vw",
-    overflowX: "hidden"
+    width: "100%"
   }
 })
 

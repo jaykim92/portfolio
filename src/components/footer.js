@@ -1,5 +1,14 @@
 import React from "react";
 
+import {makeStyles } from "@material-ui/core/styles";
+
+//custom css styling
+const useStyles = makeStyles(theme => ({
+    divStyling: {
+        alignContent: "center"
+    }
+}));
+
 function Footer() {
 
     return (
