@@ -1,5 +1,15 @@
 [
   {
+    "name": "Snapbrillia",
+    "desc": "An equitable hiring solution that offers both live and take-home coding assessments in various languages. Offers hiring managers insight to different demographic information and how they are related to disparity and diversity.",
+    "img": "snapbrilliass",
+    "tech1": "HTML, CSS, Javascript",
+    "tech2": "React, Express.js, Node.js",
+    "tech3": "MongoDB, D3.js, Axios, Jest, Postman",
+    "app": "Please contact me to discuss the application",
+    "repo": ""
+  },
+  {
     "name": "Encourage Bot",
     "desc": "A Discord bot that send users encouraging messages and inspiring quotes. The bot fetches quotes from an API and also has create, read, and delete capabilities. Users can add, view, and delete custom responses that react to the words such as 'sad' or 'upset.'",
     "img": "encouragebotss",
@@ -10,8 +20,18 @@
     "repo": "https://github.com/jaykim92/EncourageBotJS"
   },
   {
+    "name": "SCORE",
+    "desc": "Website for a laboratory to showcase ongoing research topics and team profiles. Created with a content management system with custom CSS to meet client's specifications.",
+    "img": "scoress",
+    "tech1": "HTML, CSS",
+    "tech2": "",
+    "tech3": "Squarespace",
+    "app": "https://github.com/jaykim92/EncourageBotJS",
+    "repo": "https://github.com/jaykim92/EncourageBotJS"
+  },
+  {
     "name": "Mx.Swimms",
-    "desc": "Portfolio for music artist, Mx.Swimms. Website displays discography, tour dates, photos, and social media links.",
+    "desc": "Portfolio for music artist, Mx.Swimms. Website displays discography, tour dates, photos, and social media links. Designed, developed, and deployed a minimalistic, responsive front end.",
     "img": "mxswimmsss",
     "tech1": "HTML, CSS, & JavaScript",
     "tech2": "React, Material-UI",
@@ -24,19 +44,9 @@
     "desc": "Website for the nonprofit organization, Dealing with Divorce. Collaborated with founders of the program to describe the types of services provided by the organization, help redesign and improve overall functionality for an existing WordPress website, and stage additional e-commerce and donation pages that will be deployed in the future.",
     "img": "dwdss",
     "tech1": "HTML & CSS",
-    "tech2": "n/a",
+    "tech2": "N/A",
     "tech3": "WordPress",
     "app": "https://dealingwithdivorce.org/",
     "repo": ""
-  },
-  {
-    "name": "Project FOCUS",
-    "desc": "Archive of protocols and procedures for new employees at the nonprofit organization, Project FOCUS. This full stack application has a search function to easily locate content pertaining to key words.",
-    "img": "handbookss",
-    "tech1": "HTML, CSS, & JavaScript",
-    "tech2": "React, Bootstrap, Express.js, Node.js",
-    "tech3": "MongoDB Atlas",
-    "app": "https://fsp-handbook.herokuapp.com/",
-    "repo": "https://github.com/jaykim92/FSP-handbook"
   }
 ]
