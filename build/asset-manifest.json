@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio-jay-kim/static/css/main.03c2dcc0.chunk.css",
-    "main.js": "/portfolio-jay-kim/static/js/main.fa500dc8.chunk.js",
-    "main.js.map": "/portfolio-jay-kim/static/js/main.fa500dc8.chunk.js.map",
-    "runtime-main.js": "/portfolio-jay-kim/static/js/runtime-main.ed37a501.js",
-    "runtime-main.js.map": "/portfolio-jay-kim/static/js/runtime-main.ed37a501.js.map",
-    "static/js/2.21e0c40c.chunk.js": "/portfolio-jay-kim/static/js/2.21e0c40c.chunk.js",
-    "static/js/2.21e0c40c.chunk.js.map": "/portfolio-jay-kim/static/js/2.21e0c40c.chunk.js.map",
-    "static/js/3.4cce0005.chunk.js": "/portfolio-jay-kim/static/js/3.4cce0005.chunk.js",
-    "static/js/3.4cce0005.chunk.js.map": "/portfolio-jay-kim/static/js/3.4cce0005.chunk.js.map",
+    "main.js": "/portfolio-jay-kim/static/js/main.fb366f28.chunk.js",
+    "main.js.map": "/portfolio-jay-kim/static/js/main.fb366f28.chunk.js.map",
+    "runtime-main.js": "/portfolio-jay-kim/static/js/runtime-main.51afd366.js",
+    "runtime-main.js.map": "/portfolio-jay-kim/static/js/runtime-main.51afd366.js.map",
+    "static/js/2.ab71dc3c.chunk.js": "/portfolio-jay-kim/static/js/2.ab71dc3c.chunk.js",
+    "static/js/2.ab71dc3c.chunk.js.map": "/portfolio-jay-kim/static/js/2.ab71dc3c.chunk.js.map",
+    "static/js/3.8a4a045f.chunk.js": "/portfolio-jay-kim/static/js/3.8a4a045f.chunk.js",
+    "static/js/3.8a4a045f.chunk.js.map": "/portfolio-jay-kim/static/js/3.8a4a045f.chunk.js.map",
     "index.html": "/portfolio-jay-kim/index.html",
     "static/css/main.03c2dcc0.chunk.css.map": "/portfolio-jay-kim/static/css/main.03c2dcc0.chunk.css.map",
-    "static/js/2.21e0c40c.chunk.js.LICENSE.txt": "/portfolio-jay-kim/static/js/2.21e0c40c.chunk.js.LICENSE.txt",
+    "static/js/2.ab71dc3c.chunk.js.LICENSE.txt": "/portfolio-jay-kim/static/js/2.ab71dc3c.chunk.js.LICENSE.txt",
     "static/media/aboutPic.jpg": "/portfolio-jay-kim/static/media/aboutPic.0ab0ee43.jpg",
     "static/media/aboutPic2.jpg": "/portfolio-jay-kim/static/media/aboutPic2.0c079898.jpg",
     "static/media/dwdss.jpg": "/portfolio-jay-kim/static/media/dwdss.2921790d.jpg",
@@ -22,12 +22,14 @@
     "static/media/mxswimmsss.jpg": "/portfolio-jay-kim/static/media/mxswimmsss.ef5b878a.jpg",
     "static/media/mysql.png": "/portfolio-jay-kim/static/media/mysql.13d7c06b.png",
     "static/media/projectsbg.jpg": "/portfolio-jay-kim/static/media/projectsbg.f47f9bf9.jpg",
-    "static/media/restaurateurss.jpg": "/portfolio-jay-kim/static/media/restaurateurss.b5f3f66f.jpg"
+    "static/media/restaurateurss.jpg": "/portfolio-jay-kim/static/media/restaurateurss.b5f3f66f.jpg",
+    "static/media/scoress.jpg": "/portfolio-jay-kim/static/media/scoress.1c2cbda7.jpg",
+    "static/media/snapbrilliass.jpg": "/portfolio-jay-kim/static/media/snapbrilliass.8da5c3b6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ed37a501.js",
-    "static/js/2.21e0c40c.chunk.js",
+    "static/js/runtime-main.51afd366.js",
+    "static/js/2.ab71dc3c.chunk.js",
     "static/css/main.03c2dcc0.chunk.css",
-    "static/js/main.fa500dc8.chunk.js"
+    "static/js/main.fb366f28.chunk.js"
   ]
 }
