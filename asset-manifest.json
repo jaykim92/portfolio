@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.03c2dcc0.chunk.css",
+    "main.js": "/portfolio/static/js/main.fb366f28.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.fb366f28.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.b9ae6e83.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.b9ae6e83.js.map",
+    "static/js/2.ab71dc3c.chunk.js": "/portfolio/static/js/2.ab71dc3c.chunk.js",
+    "static/js/2.ab71dc3c.chunk.js.map": "/portfolio/static/js/2.ab71dc3c.chunk.js.map",
+    "static/js/3.8a4a045f.chunk.js": "/portfolio/static/js/3.8a4a045f.chunk.js",
+    "static/js/3.8a4a045f.chunk.js.map": "/portfolio/static/js/3.8a4a045f.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.03c2dcc0.chunk.css.map": "/portfolio/static/css/main.03c2dcc0.chunk.css.map",
+    "static/js/2.ab71dc3c.chunk.js.LICENSE.txt": "/portfolio/static/js/2.ab71dc3c.chunk.js.LICENSE.txt",
+    "static/media/aboutPic.jpg": "/portfolio/static/media/aboutPic.0ab0ee43.jpg",
+    "static/media/aboutPic2.jpg": "/portfolio/static/media/aboutPic2.0c079898.jpg",
+    "static/media/dwdss.jpg": "/portfolio/static/media/dwdss.2921790d.jpg",
+    "static/media/encouragebotss.jpg": "/portfolio/static/media/encouragebotss.f1400fc8.jpg",
+    "static/media/handbookss.jpg": "/portfolio/static/media/handbookss.496a3921.jpg",
+    "static/media/landingImg.jpg": "/portfolio/static/media/landingImg.2c0ae260.jpg",
+    "static/media/mongodb.png": "/portfolio/static/media/mongodb.15d9a29a.png",
+    "static/media/mxswimmsss.jpg": "/portfolio/static/media/mxswimmsss.ef5b878a.jpg",
+    "static/media/mysql.png": "/portfolio/static/media/mysql.13d7c06b.png",
+    "static/media/projectsbg.jpg": "/portfolio/static/media/projectsbg.f47f9bf9.jpg",
+    "static/media/restaurateurss.jpg": "/portfolio/static/media/restaurateurss.b5f3f66f.jpg",
+    "static/media/scoress.jpg": "/portfolio/static/media/scoress.1c2cbda7.jpg",
+    "static/media/snapbrilliass.jpg": "/portfolio/static/media/snapbrilliass.8da5c3b6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9ae6e83.js",
+    "static/js/2.ab71dc3c.chunk.js",
+    "static/css/main.03c2dcc0.chunk.css",
+    "static/js/main.fb366f28.chunk.js"
+  ]
+}
